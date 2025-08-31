@@ -2,7 +2,7 @@
 
 <!-- HERO -->
 <div align="center">
-  <img src="./asset/Make your README.png" alt="SIMPHIWE BLOSE banner" width="100%" />
+  <img src="./assets/Make your README.png" alt="SIMPHIWE BLOSE banner" width="100%" />
 <p>
   
 </p>
